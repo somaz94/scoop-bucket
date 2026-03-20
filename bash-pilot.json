@@ -1,19 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/somaz94/bash-pilot/releases/download/v0.1.1/bash-pilot_0.1.1_windows_amd64.zip",
+            "url": "https://github.com/somaz94/bash-pilot/releases/download/v0.2.0/bash-pilot_0.2.0_windows_amd64.zip",
             "bin": [
                 "bash-pilot.exe"
             ],
-            "hash": "44368fb5ed34784f307c86063948ec3fbc3d8aa2ad736a278b69d1f6e183ec02"
+            "hash": "e926d07dfc9680c24bdc38c4761dec5b3c899a24044c1796db37022a58643ad7"
         },
         "arm64": {
-            "url": "https://github.com/somaz94/bash-pilot/releases/download/v0.1.1/bash-pilot_0.1.1_windows_arm64.zip",
+            "url": "https://github.com/somaz94/bash-pilot/releases/download/v0.2.0/bash-pilot_0.2.0_windows_arm64.zip",
             "bin": [
                 "bash-pilot.exe"
             ],
-            "hash": "402e2b272e86b63ec606739b9c9b9bd5a173bc2d447115be07d980e3590d41dd"
+            "hash": "b61a87d957b9ca7e90b386987aa41c26b715c38074899228ecaf9356e4c52b1a"
         }
     },
     "homepage": "https://github.com/somaz94/bash-pilot",
